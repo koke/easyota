@@ -1,0 +1,9 @@
+Options +FollowSymlinks
+RewriteEngine on
+#RewriteBase /
+
+# uploaded files
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ ./app.php?id=$1 [L]

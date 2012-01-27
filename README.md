@@ -12,6 +12,10 @@ Patches welcome, of course :)
 * Clone the repository
 * Make sure your webserver can write the `apps` directory
 
+## Thanks
+
+* Icons from [Tomas Gajar](http://www.smashingmagazine.com/2011/12/29/freebie-free-vector-web-icons-91-icons/)
+* URL guessing code from [WordPress](http://wordpress.org)
 
 ## License
 

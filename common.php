@@ -34,5 +34,4 @@ function base_url() {
   return dirname(rtrim($url, '/'));
 }
 
-echo base_url();
 ?>
